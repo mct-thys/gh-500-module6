@@ -1,7 +1,4 @@
-name: "Custom CodeQL Configuration"
-
-queries:
-  - uses: security-and-quality
+name: "Initialize CodeQL"
 
 packs:
   # Use these packs for JavaScript analysis
